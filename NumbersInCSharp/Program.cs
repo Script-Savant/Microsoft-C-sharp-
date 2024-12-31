@@ -69,16 +69,31 @@
 
 // Language integrated query LINQ
 // int[] scores = {98, 76, 99, 65, 80};
-List<int> scores = [98, 76, 99, 65, 80];
+List<int> scores = [98, 76, 99, 65, 80, 85, 100, 99];
 
 // Define the query expression
-IEnumerable<int> scoreQuery = 
+// IEnumerable<int> scoresQuery = 
+//     from score in scores
+//     where score >= 80
+//     orderby score descending
+//     select score;
+
+IEnumerable<string> scoresQuery = 
     from score in scores
     where score >= 80
-    select score;
+    orderby score ascending
+    select $"The score is {score}";
 
-foreach (var score in scoreQuery)
+int highScores = (
+    from score in scores
+    where score >= 80
+    select score
+).Count();
+Console.WriteLine($"The number of students with 80 and above is: {highScores}");
+Console.WriteLine();
+
+foreach (var score in scoresQuery)
 {
-    Console.Write($"{score} ");
+    Console.WriteLine(score);
 }
 
