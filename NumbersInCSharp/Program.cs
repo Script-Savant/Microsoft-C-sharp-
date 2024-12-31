@@ -31,23 +31,23 @@
 // }
 
 // List T Collections of Data
-var names = new List<string> {"Felipe", "James", "Monroe"};
+// var names = new List<string> {"Felipe", "James", "Monroe"};
 
-names.Add("Corazon");
-names.Add("Ernesto");
-names.Add("Christian");
+// names.Add("Corazon");
+// names.Add("Ernesto");
+// names.Add("Christian");
 
-// Sort names
-names.Sort();
-// Reverse names
-names.Reverse();
-// Find the index of
-Console.WriteLine($"Index of Corazon is {names.IndexOf("Corazon")}");
+// // Sort names
+// names.Sort();
+// // Reverse names
+// names.Reverse();
+// // Find the index of
+// Console.WriteLine($"Index of Corazon is {names.IndexOf("Corazon")}");
 
-foreach (var name in names) 
-{
-    Console.WriteLine(name);
-}
+// foreach (var name in names) 
+// {
+//     Console.WriteLine(name);
+// }
 
 // Console.WriteLine(names[0]);
 // Console.WriteLine(names[names.Count-1]); // Use count to get the last element of the list
@@ -66,4 +66,19 @@ foreach (var name in names)
 // {
 //     Console.WriteLine(name);
 // }
+
+// Language integrated query LINQ
+// int[] scores = {98, 76, 99, 65, 80};
+List<int> scores = [98, 76, 99, 65, 80];
+
+// Define the query expression
+IEnumerable<int> scoreQuery = 
+    from score in scores
+    where score >= 80
+    select score;
+
+foreach (var score in scoreQuery)
+{
+    Console.Write($"{score} ");
+}
 
