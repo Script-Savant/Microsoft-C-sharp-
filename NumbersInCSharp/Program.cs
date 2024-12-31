@@ -78,22 +78,24 @@ List<int> scores = [98, 76, 99, 65, 80, 85, 100, 99];
 //     orderby score descending
 //     select score;
 
-IEnumerable<string> scoresQuery = 
-    from score in scores
-    where score >= 80
-    orderby score ascending
-    select $"The score is {score}";
+var scoresQuery = scores.Where(s => s >= 80).OrderByDescending(s => s);
 
-int highScores = (
-    from score in scores
-    where score >= 80
-    select score
-).Count();
-Console.WriteLine($"The number of students with 80 and above is: {highScores}");
-Console.WriteLine();
+// IEnumerable<string> scoresQuery = 
+//     from score in scores
+//     where score >= 80
+//     orderby score ascending
+//     select $"The score is {score}";
 
-foreach (var score in scoresQuery)
-{
-    Console.WriteLine(score);
-}
+// int highScores = (
+//     from score in scores
+//     where score >= 80
+//     select score
+// ).Count();
+// Console.WriteLine($"The number of students with 80 and above is: {highScores}");
+// Console.WriteLine();
+
+// foreach (var score in scoresQuery)
+// {
+//     Console.WriteLine(score);
+// }
 
