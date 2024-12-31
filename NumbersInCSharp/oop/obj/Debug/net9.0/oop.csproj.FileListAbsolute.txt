@@ -1,0 +1,15 @@
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\bin\Debug\net9.0\oop.exe
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\bin\Debug\net9.0\oop.deps.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\bin\Debug\net9.0\oop.runtimeconfig.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\bin\Debug\net9.0\oop.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\bin\Debug\net9.0\oop.pdb
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\oop.AssemblyInfoInputs.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\oop.AssemblyInfo.cs
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\oop.csproj.CoreCompileInputs.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\oop.sourcelink.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\oop.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\refint\oop.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\oop.pdb
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\oop.genruntimeconfig.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\NumbersInCSharp\oop\obj\Debug\net9.0\ref\oop.dll
