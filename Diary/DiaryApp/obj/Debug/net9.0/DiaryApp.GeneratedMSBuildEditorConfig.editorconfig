@@ -32,6 +32,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhcnlFbnRyaWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/script-savant/Projects/Microsoft-C-sharp-/Diary/DiaryApp/Views/DiaryEntries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhcnlFbnRyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/script-savant/Projects/Microsoft-C-sharp-/Diary/DiaryApp/Views/DiaryEntries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhcnlFbnRyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/script-savant/Projects/Microsoft-C-sharp-/Diary/DiaryApp/Views/DiaryEntries/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhcnlFbnRyaWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
