@@ -1,12 +1,13 @@
-﻿public class Person
+﻿public class Calculator
 {
-    public static int PopulationCounter { get; set; } = 0;
-    public string Name { get; set; }
-
-    public Person(string name)
+    public int Sum(int a, int b)
     {
-        Name = name;
-        PopulationCounter++;
+        return a + b;
+    }
+
+    public static int Multiply(int a, int b)
+    {
+        return a * b;
     }
 }
 
@@ -14,11 +15,11 @@ internal partial class Program
 {
     private static void Main(string[] args)
     {
-        Person p1 = new("Saldina");
-        Person p2 = new("Joe");
-        Person p3 = new("Emiliano");
+        int a = 2, b= 3;
 
-        Console.WriteLine(p1.Name);
-        Console.WriteLine(Person.PopulationCounter);
+        Calculator calc = new Calculator();
+        Console.WriteLine(calc.Sum(a, b));
+
+        Console.WriteLine(Calculator.Multiply(a, b));
     }
 }
