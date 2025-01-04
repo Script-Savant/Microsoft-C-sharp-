@@ -1,0 +1,15 @@
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\bin\Debug\net9.0\Static-Props-and-Methods.exe
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\bin\Debug\net9.0\Static-Props-and-Methods.deps.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\bin\Debug\net9.0\Static-Props-and-Methods.runtimeconfig.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\bin\Debug\net9.0\Static-Props-and-Methods.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\bin\Debug\net9.0\Static-Props-and-Methods.pdb
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\Static-Props-and-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\Static-Props-and-Methods.AssemblyInfoInputs.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\Static-Props-and-Methods.AssemblyInfo.cs
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\Static-Props-and-Methods.csproj.CoreCompileInputs.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\Static-Props-and-Methods.sourcelink.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\Static-Props-and-Methods.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\refint\Static-Props-and-Methods.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\Static-Props-and-Methods.pdb
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\Static-Props-and-Methods.genruntimeconfig.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\Static-Props-and-Methods\obj\Debug\net9.0\ref\Static-Props-and-Methods.dll
