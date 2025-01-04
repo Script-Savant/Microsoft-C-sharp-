@@ -1,0 +1,17 @@
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.exe
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.deps.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.runtimeconfig.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\bin\Debug\net9.0-windows\BankAccountsApp.pdb
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.Form1.resources
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.csproj.GenerateResource.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.AssemblyInfoInputs.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.AssemblyInfo.cs
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.sourcelink.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\refint\BankAccountsApp.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.pdb
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\BankAccountsApp.genruntimeconfig.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\BankAccountsApp\BankAccountsApp\obj\Debug\net9.0-windows\ref\BankAccountsApp.dll

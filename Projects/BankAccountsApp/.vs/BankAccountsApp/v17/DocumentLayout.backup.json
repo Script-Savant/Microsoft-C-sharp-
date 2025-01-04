@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA28246-D7C4-469B-9D75-3F8E33D7F282}|BankAccountsApp\\BankAccountsApp.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\bankaccountsapp\\bankaccountsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA28246-D7C4-469B-9D75-3F8E33D7F282}|BankAccountsApp\\BankAccountsApp.csproj|solutionrelative:bankaccountsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA28246-D7C4-469B-9D75-3F8E33D7F282}|BankAccountsApp\\BankAccountsApp.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\bankaccountsapp\\bankaccountsapp\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA28246-D7C4-469B-9D75-3F8E33D7F282}|BankAccountsApp\\BankAccountsApp.csproj|solutionrelative:bankaccountsapp\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA28246-D7C4-469B-9D75-3F8E33D7F282}|BankAccountsApp\\BankAccountsApp.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\bankaccountsapp\\bankaccountsapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA28246-D7C4-469B-9D75-3F8E33D7F282}|BankAccountsApp\\BankAccountsApp.csproj|solutionrelative:bankaccountsapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA28246-D7C4-469B-9D75-3F8E33D7F282}|BankAccountsApp\\BankAccountsApp.csproj|C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\bankaccountsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EA28246-D7C4-469B-9D75-3F8E33D7F282}|BankAccountsApp\\BankAccountsApp.csproj|solutionrelative:bankaccountsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\BankAccountsApp\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountsApp\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\BankAccountsApp\\SavingsAccount.cs*",
+              "RelativeToolTip": "BankAccountsApp\\SavingsAccount.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:11:04.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\BankAccountsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "BankAccountsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\BankAccountsApp\\Form1.cs*",
+              "RelativeToolTip": "BankAccountsApp\\Form1.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAywBwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:32:13.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\BankAccountsApp\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountsApp\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\BankAccountsApp\\BankAccount.cs",
+              "RelativeToolTip": "BankAccountsApp\\BankAccount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:26:13.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\BankAccountsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "BankAccountsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\BankAccountsApp\\BankAccountsApp\\Form1.cs [Design]*",
+              "RelativeToolTip": "BankAccountsApp\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:48:06.716Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
