@@ -10,6 +10,6 @@ namespace EmployeesManagement.Data
             : base(options)
         {
         }
-        public DbSet<Employee> Employess { get; set; }
+        public DbSet<Employee> Employees { get; set; }
     }
 }
