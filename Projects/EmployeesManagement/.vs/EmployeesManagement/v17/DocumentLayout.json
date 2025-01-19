@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\employeesmanagement\\employeesmanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\employeesmanagement\\employeesmanagement\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\employeesmanagement\\employeesmanagement\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\employeesmanagement\\employeesmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\employeesmanagement\\employeesmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C73B360-026F-4F10-9D01-2993A5D0485C}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T14:31:03.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T13:57:19.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T13:53:00.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeesManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:52:31.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\EmployeesManagement\\EmployeesManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeesManagement\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:12:08.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
