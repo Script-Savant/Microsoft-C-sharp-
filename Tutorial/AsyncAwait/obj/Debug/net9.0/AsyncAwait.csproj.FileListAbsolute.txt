@@ -1,0 +1,15 @@
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\bin\Debug\net9.0\AsyncAwait.exe
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\bin\Debug\net9.0\AsyncAwait.deps.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\bin\Debug\net9.0\AsyncAwait.runtimeconfig.json
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\bin\Debug\net9.0\AsyncAwait.dll
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\bin\Debug\net9.0\AsyncAwait.pdb
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\AsyncAwait.AssemblyInfoInputs.cache
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\AsyncAwait.AssemblyInfo.cs
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\AsyncAwait.csproj.CoreCompileInputs.cache
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\AsyncAwait.sourcelink.json
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\AsyncAwait.dll
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\refint\AsyncAwait.dll
+c:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\AsyncAwait.pdb
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\AsyncAwait.genruntimeconfig.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Tutorial\AsyncAwait\obj\Debug\net9.0\ref\AsyncAwait.dll
