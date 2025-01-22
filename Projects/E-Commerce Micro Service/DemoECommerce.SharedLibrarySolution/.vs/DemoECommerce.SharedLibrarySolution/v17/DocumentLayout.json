@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\E-Commerce Micro Service\\DemoECommerce.SharedLibrarySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAE6025-57EF-48E8-96CA-D09DEDEF7729}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\e-commerce micro service\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAE6025-57EF-48E8-96CA-D09DEDEF7729}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAE6025-57EF-48E8-96CA-D09DEDEF7729}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\script-savant\\projects\\microsoft-c-sharp-\\projects\\e-commerce micro service\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAE6025-57EF-48E8-96CA-D09DEDEF7729}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\E-Commerce Micro Service\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Response\\Response.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Response\\Response.cs",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\E-Commerce Micro Service\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Response\\Response.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Response\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:54:22.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericInterface.cs",
+              "DocumentMoniker": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\E-Commerce Micro Service\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ToolTip": "C:\\Users\\script-savant\\Projects\\Microsoft-C-sharp-\\Projects\\E-Commerce Micro Service\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:52:39.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

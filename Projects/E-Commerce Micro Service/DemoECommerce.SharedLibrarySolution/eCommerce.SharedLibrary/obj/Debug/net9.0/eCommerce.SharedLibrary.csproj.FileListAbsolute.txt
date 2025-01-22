@@ -1,0 +1,13 @@
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\bin\Debug\net9.0\eCommerce.SharedLibrary.deps.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\bin\Debug\net9.0\eCommerce.SharedLibrary.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\bin\Debug\net9.0\eCommerce.SharedLibrary.pdb
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.AssemblyInfo.cs
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.sourcelink.json
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\refint\eCommerce.SharedLibrary.dll
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.pdb
+C:\Users\script-savant\Projects\Microsoft-C-sharp-\Projects\E-Commerce Micro Service\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\ref\eCommerce.SharedLibrary.dll
