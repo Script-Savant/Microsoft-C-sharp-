@@ -21,8 +21,12 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult RsvpForm([Bind("Name, Email, Phone, WillAttend")] GuestResponse guestResponse)
     {
-        Repository.AddResponse(guestResponse);
-        return View("Thanks", guestResponse);
+        if (ModelState.IsValid){
+            Repository.AddResponse(guestResponse);
+            return View("Thanks", guestResponse);
+        } else {
+            return View(guestResponse);
+        }
     }
 
     [HttpGet]

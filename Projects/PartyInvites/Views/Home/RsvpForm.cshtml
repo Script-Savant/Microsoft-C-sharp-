@@ -6,17 +6,19 @@
 
 <div class="container p-4 my-5">
     <form asp-controller="Home" asp-action="RsvpForm" method="post" class="d-flex flex-column align-self-center w-50 mx-auto">
+        <div class="text-danger" asp-validation-summary="All"></div>
+
         <div class="form-control my-2 d-flex justify-content-between">
             <label asp-for="Name">Your Name:</label>
-            <input asp-for="Name"/>
+            <input asp-for="Name" required/>
         </div>
         <div class="form-control my-2 d-flex justify-content-between">
             <label asp-for="Email">Your Email:</label>
-            <input asp-for="Email"/>
+            <input asp-for="Email" required/>
         </div>
         <div class="form-control my-2 d-flex justify-content-between">
             <label asp-for="Phone">Your Phone No:</label>
-            <input asp-for="Phone"/>
+            <input asp-for="Phone" required/>
         </div>
         <div class="form-control my-2 d-flex justify-content-between">
             <label asp-for="WillAttend">Will Your attend?</label>
@@ -33,3 +35,6 @@
     </form>
 </div>
     
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
