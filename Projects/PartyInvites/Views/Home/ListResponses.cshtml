@@ -1,0 +1,26 @@
+@model IEnumerable<PartyInvites.Models.GuestResponse>
+
+@{
+    ViewData["Title"] = "Attendees";
+}
+
+<div class="table-responsive rounded">
+    <table class="table table-hover table-info">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var person in Model){
+                <tr>
+                    <td class="text-capitalize">@person.Name</td>
+                    <td>@person.Email</td>
+                    <td>@person.Phone</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

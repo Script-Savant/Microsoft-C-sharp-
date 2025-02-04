@@ -1,0 +1,24 @@
+@model PartyInvites.Models.GuestResponse
+
+@{
+    ViewData["Title"] = "Thanks";
+}
+
+<div class="container d-flex flex-column p-4 my-5">
+    <h1 class="my-4 text-capitalize">Thank you, @Model.Name!</h1>
+
+    @if (Model.WillAttend == true)
+    {
+        <p>It's great that you are coming.</p>
+        <p>The drinks are already in the fridge!</p>
+    }
+    else
+    {
+        <p>Sorry to hear that you cannot make it,</p>
+        <p>but thanks for letting us know.</p>
+    }
+
+    <p class="my-4">Click <a class="btn btn-secondary" asp-controller="Home" asp-action="ListResponses">here</a> to see who
+        is coming.
+    </p>
+</div>

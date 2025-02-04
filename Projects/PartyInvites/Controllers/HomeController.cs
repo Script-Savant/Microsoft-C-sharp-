@@ -24,4 +24,10 @@ public class HomeController : Controller
         Repository.AddResponse(guestResponse);
         return View("Thanks", guestResponse);
     }
+
+    [HttpGet]
+    public IActionResult ListResponses(){
+        return View(Repository.Responses
+        .Where(r => r.WillAttend is true));
+    }
 }
