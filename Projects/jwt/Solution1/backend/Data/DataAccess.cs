@@ -1,4 +1,5 @@
-﻿using Dapper;
+﻿using backend.Models;
+using Dapper;
 using Microsoft.Data.SqlClient;
 
 namespace backend.Data
@@ -30,6 +31,12 @@ namespace backend.Data
             var result = connection.Execute(query, new { email = email, password = password, role = role });
 
             return result > 0;
+        }
+
+        public UserAccount? FindUserByEmail(string email)
+        {
+            var sql = "SELECT * FROM [UserAccount] WHERE [Email] = @email";
+            return connection.QueryFirstOrDefault<UserAccount>(sql, new { email = email });
         }
     }
 }
